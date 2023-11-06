@@ -1,8 +1,6 @@
 package calculator;
 
 import static org.assertj.core.api.Assertions.*;
-
-import calculator.Calculator;
 // Задание 1.
 // ** В классе Calculator создайте метод calculateDiscount,
 // который принимает сумму покупки и процент скидки и возвращает сумму с учетом скидки.
