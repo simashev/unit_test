@@ -2,7 +2,7 @@
 
 ## Код программы
 
-Код программы размещен по ссылке: [Код программы]()
+Код программы размещен по ссылке: [Код программы](https://github.com/simashev/unit_test/blob/master/src/sem6/src/average_utils.py)
 
 ## Код тестов
 
