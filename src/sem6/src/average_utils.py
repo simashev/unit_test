@@ -10,7 +10,7 @@ class AverageUtils:
         try:
             return sum(numbers) / len(numbers)
         except TypeError as e:
-            raise TypeError("list should contain only numbers") from e
+            raise TypeError("список состоит из чисел") from e
 
     @staticmethod
     def compare_average(
